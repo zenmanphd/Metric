@@ -4,7 +4,7 @@ h1 {
     color: rgb(233, 245, 245,0.63);
 }
 body {
-    background-image: url(../metric/calculus.jpg);
+    background-image: url('calculus.jpg');
     background-size: cover;
     background-attachment: fixed;
   }
