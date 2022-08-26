@@ -22,7 +22,7 @@ h2 {
     color: rgb(175, 224, 247); 
 }
 .change {
-    color: rgb(141, 205, 235);
+    color: "red";
     text-align: right;
     font-size: 45px;
 }
