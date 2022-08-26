@@ -1,6 +1,6 @@
 const header = document.querySelector(.title);
 const intro = document.querySelector(.rant);
-const trigger = document.querySelector(.change);
-change.addEventListener("click", function(){
+const go = document.querySelector(.trigger);
+go.addEventListener("click", function(){
 header.classList.toggle("change");
 });
