@@ -1,5 +1,6 @@
 const header = document.querySelector(.title);
 const intro = document.querySelector(.rant);
-header.addEventListener("mouseover", function(){
+const trigger = document.querySelector(.change);
+change.addEventListener("click", function(){
 header.classList.toggle("change");
 });
