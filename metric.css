@@ -10,6 +10,8 @@ body {
   }
 p {
    color: aliceblue; 
+   font-size: large;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 article {
   width: 500px;
