@@ -22,7 +22,12 @@ article {
   text-align: center;
   margin: auto;
 }
-a{
+a {
   text-align: center;
+}
+button {
+  background-color: rgb(8, 8, 53);
+  border: 2px solid black;
+  border-radius: 4px;
 }
 
