@@ -15,7 +15,6 @@ p {
   }
 article {
   width: 500px;
-  height: 750px;
   border: 2px solid blue;
   border-radius: 4px;
   text-align: center;
