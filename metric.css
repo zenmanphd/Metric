@@ -14,6 +14,7 @@ p {
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 article {
+  background-color: rgba(116, 116, 177, 0.61);
   width: 500px;
   border: 2px solid blue;
   border-radius: 8px;
