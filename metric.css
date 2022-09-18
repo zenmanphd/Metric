@@ -16,7 +16,9 @@ p {
 article {
   width: 500px;
   border: 2px solid blue;
-  border-radius: 4px;
+  border-radius: 8px;
+  padding: 10px;
   text-align: center;
+  margin: auto;
 }
 
