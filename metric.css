@@ -7,13 +7,11 @@ h1 {
 body {
     background-color: black;
   }
-p {
-   color: rgb(5, 180, 40); 
-   font-size: large;
-   font-family: 'Courier New', Courier, monospace;
-  }
-article {
+
+.rant1 {
   background-color: solid black;
+  color: rgb(5, 180, 40);
+  font-family: 'Courier New', Courier, monospace;
   width: 500px;
   border: 2px solid rgb(139, 204, 244);
   border-radius: 8px;
@@ -27,8 +25,18 @@ a {
 button {
   color: aqua;
   background-color: rgb(11, 11, 78);
-  border: 2px solid rgb(177, 199, 206);
+  border: 2px solid rgb(139, 204, 244);
   border-radius: 4px;
   margin: auto;
 }
-
+.rant2 {
+  background-color: solid rgb(12, 4, 58);
+  color: aqua;
+  font-family: 'Courier New', Courier, monospace;
+  width: 500px;
+  border: 2px solid rgb(139, 204, 244);
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+}
