@@ -29,5 +29,6 @@ button {
   background-color: rgb(1, 1, 16);
   border: 2px solid rgb(177, 199, 206);
   border-radius: 4px;
+  margin: auto;
 }
 
