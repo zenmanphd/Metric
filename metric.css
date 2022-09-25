@@ -12,9 +12,9 @@ p {
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 article {
-  background-color: rgba(116, 116, 177, 0.61);
+  background-color: solid black;
   width: 500px;
-  border: 2px solid blue;
+  border: 2px solid rgb(139, 204, 244);
   border-radius: 8px;
   padding: 10px;
   text-align: center;
