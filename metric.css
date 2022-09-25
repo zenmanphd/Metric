@@ -27,6 +27,7 @@ button {
   background-color: rgb(11, 11, 78);
   border: 2px solid rgb(139, 204, 244);
   border-radius: 4px;
+  text-align: center;
   margin: auto;
 }
 .rant2 {
