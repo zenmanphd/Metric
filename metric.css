@@ -4,12 +4,16 @@ h1 {
     font-size: 75px;
     color: aqua
 }
+h2 {
+  text-align: center;
+  color: aquamarine;
+}
 body {
     background-color: rgb(1, 2, 30);
   }
 
 .rant1 {
-  background-color: rgb(9, 9, 58);
+  background-color: rgb(9, 9, 58, .65);
   color: aqua;
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
