@@ -27,6 +27,9 @@ body {
 a {
   text-align: center;
 }
+.trigger {
+  text-align: center;
+}
 button {
   color: aqua;
   background-color: rgb(12, 4, 58);
@@ -34,6 +37,7 @@ button {
   border-radius: 4px;
   text-align: center;
   margin: auto;
+  display: inline-block;
 }
 .rant2 {
   background-color: rgb(12, 4, 58);
