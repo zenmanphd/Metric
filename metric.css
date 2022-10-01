@@ -52,12 +52,12 @@ button {
   margin: auto;
 }
 .rant3 {
-  background-color: rgb(1, 2, 30);
-  color: aqua;
+  background-color: rgb(2, 44, 5);
+  color: rgb(72, 237, 91);
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
   width: 750px;
-  border: 2px solid rgb(139, 204, 244);
+  border: 2px solid rgb(72, 237, 91);
   border-radius: 8px;
   padding: 10px;
   text-align: center;
