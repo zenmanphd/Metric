@@ -26,7 +26,8 @@ body {
   margin: auto;
 }
 a {
-  text-align: center;
+  
+  color: aqua;
 }
 .trigger {
   text-align: center;
