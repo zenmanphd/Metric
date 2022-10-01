@@ -43,3 +43,15 @@ button {
   text-align: center;
   margin: auto;
 }
+.rant3 {
+  background-color: solid rgb(12, 4, 58);
+  color: aqua;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  width: 500px;
+  border: 2px solid rgb(139, 204, 244);
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+}
