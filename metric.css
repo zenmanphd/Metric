@@ -25,14 +25,14 @@ a {
 }
 button {
   color: aqua;
-  background-color: rgb(11, 11, 78);
+  background-color: rgb(12, 4, 58);
   border: 2px solid rgb(139, 204, 244);
   border-radius: 4px;
   text-align: center;
   margin: auto;
 }
 .rant2 {
-  background-color: solid rgb(12, 4, 58);
+  background-color: rgb(12, 4, 58);
   color: aqua;
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
@@ -44,7 +44,7 @@ button {
   margin: auto;
 }
 .rant3 {
-  background-color: solid rgb(11, 11, 78);
+  background-color: rgb(12, 4, 58);
   color: aqua;
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
