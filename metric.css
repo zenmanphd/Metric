@@ -32,10 +32,7 @@ a {
 }
 button {
   font-size: x-large;
-  color: aqua;
-  background-color: rgb(12, 4, 58);
-  border: 2px solid rgb(139, 204, 244);
-  border-radius: 4px;
+  border-radius: 8px;
   text-align: center;
   margin: auto;
   display: inline-block;
@@ -65,8 +62,14 @@ button {
   margin: auto;
 }
 .lie {
+  color: rgb(235, 190, 206);
+  background-color: rgb(85, 4, 31);
+  border: 2px solid rgb(235, 190, 206);
   
 }
 .truth {
+  color: aqua;
+  background-color: rgb(12, 4, 58);
+  border: 2px solid rgb(139, 204, 244);
   margin-left: 100px;
 }
