@@ -9,8 +9,8 @@ body {
   }
 
 .rant1 {
-  background-color: solid black;
-  color: rgb(5, 180, 40);
+  background-color: rgb(11, 11, 78);
+  color: aqua
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
   width: 500px;
@@ -44,7 +44,7 @@ button {
   margin: auto;
 }
 .rant3 {
-  background-color: solid rgb(12, 4, 58);
+  background-color: solid rgb(11, 11, 78);
   color: aqua;
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
