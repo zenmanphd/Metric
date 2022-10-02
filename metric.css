@@ -82,6 +82,9 @@ button {
   background-size: cover;
   background-attachment: fixed;
 }
+.title1 {
+  color: rgb(72, 237, 91);
+}
 .title2 {
-  color: rgb(241, 207, 191);
+  color: rgb(240, 228, 222);
 }
