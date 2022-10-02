@@ -82,6 +82,11 @@ button {
   background-size: cover;
   background-attachment: fixed;
 }
+.delusion {
+  background-image: url('wildwest.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
 .title1 {
   color: rgb(72, 237, 91);
 }
