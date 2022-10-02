@@ -88,3 +88,6 @@ button {
 .title2 {
   color: rgb(240, 228, 222);
 }
+audio {
+  margin: auto;
+}
