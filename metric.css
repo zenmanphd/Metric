@@ -53,12 +53,12 @@ button {
   margin: auto;
 }
 .rant3 {
-  background-color: rgb(2, 44, 5);
-  color: rgb(72, 237, 91);
+  background-color: rgba(214, 221, 214, 0.528);
+  color: rgb(165, 55, 55);
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
   width: 750px;
-  border: 2px solid rgb(72, 237, 91);
+  border: 2px solid rgb(165, 55, 55);
   border-radius: 8px;
   padding: 10px;
   text-align: center;
