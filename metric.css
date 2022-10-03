@@ -54,9 +54,10 @@ button {
 }
 .rant3 {
   background-color: rgba(214, 221, 214, 0.528);
-  color: rgb(165, 55, 55);
+  color: rgb(190, 64, 64);
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
+  font-weight: bold;
   width: 750px;
   border: 2px solid rgb(165, 55, 55);
   border-radius: 8px;
