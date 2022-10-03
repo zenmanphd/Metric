@@ -68,15 +68,15 @@ button {
   margin: auto;
 }
 .lie {
-  color: rgb(247, 219, 229);
+  color: rgb(255, 235, 242);
   background-color: rgb(85, 4, 31);
-  border: 2px solid rgb(247, 219, 229);
+  border: 2px solid rgb(255, 235, 242);
   
 }
 .truth {
   color: aqua;
   background-color: rgb(24, 10, 112);
-  border: 2px solid rgb(139, 204, 244);
+  border: 2px aqua;
   margin-left: 100px;
 }
 .enlighten {
