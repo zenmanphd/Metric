@@ -43,6 +43,7 @@ button {
   background-color: rgba(77, 5, 23, 0.649);
   color: rgb(217, 234, 234);
   font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
   font-size: larger;
   width: 750px;
   border: 2px solid rgb(195, 140, 150);
@@ -57,7 +58,7 @@ button {
   color: rgb(165, 55, 55);
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
-  font-weight: bold;
+  font-weight: bolder;
   width: 750px;
   border: 2px solid rgb(165, 55, 55);
   border-radius: 8px;
