@@ -40,7 +40,7 @@ button {
   display: inline-block;
 }
 .rant2 {
-  background-color: rgb(77, 5, 23);
+  background-color: rgba(77, 5, 23, 0.649);
   color: rgb(217, 234, 234);
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
