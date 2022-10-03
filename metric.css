@@ -76,7 +76,7 @@ button {
 .truth {
   color: aqua;
   background-color: rgb(24, 10, 112);
-  border: 2px aqua;
+  border: 2px solid aqua;
   margin-left: 100px;
 }
 .enlighten {
