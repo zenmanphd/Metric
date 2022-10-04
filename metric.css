@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 75px;
+    font-weight: lighter;
     color: aqua
 }
 h2 {
