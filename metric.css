@@ -70,11 +70,17 @@ button {
   border: 2px solid rgb(255, 235, 242);
   
 }
+.lie a:hover {
+  background-color: rgb(245, 130, 130);
+}
 .truth {
   color: aqua;
   background-color: rgb(24, 10, 112);
   border: 2px solid aqua;
   margin-left: 100px;
+}
+.truth a:hover {
+  background-color: rgb(82, 115, 247);
 }
 .enlighten {
   background-image: url('painting.jpg');
