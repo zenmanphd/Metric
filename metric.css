@@ -86,11 +86,6 @@ button {
   background-size: cover;
   background-attachment: fixed;
 }
-.main {
-  background-image: url('binary.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-}
 .title1 {
   color: rgb(165, 55, 55);
 }
