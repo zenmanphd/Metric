@@ -10,7 +10,7 @@ h2 {
 }
 
 .rant1 {
-  background-color: rgb(1, 2, 30);
+  background-color: rgba(1, 2, 30, 0.642);
   color: aqua;
   font-family: 'Courier New', Courier, monospace;
   font-size: larger;
