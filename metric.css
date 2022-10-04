@@ -72,7 +72,7 @@ button {
   
 }
 .lie:hover {
-  background-color: rgb(245, 130, 130);
+  background-color: rgb(137, 68, 68);
 }
 .truth {
   color: aqua;
@@ -81,7 +81,7 @@ button {
   margin-left: 100px;
 }
 .truth:hover {
-  background-color: rgb(82, 115, 247);
+  background-color: rgb(56, 86, 208);
 }
 .enlighten {
   background-image: url('painting.jpg');
