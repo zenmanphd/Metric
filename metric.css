@@ -99,3 +99,10 @@ button {
 .title2 {
   color: rgb(240, 228, 222);
 }
+.euro {
+  background-color: rgb(77, 5, 23,0.649);
+    border-radius: 4px;
+    font-size: large;
+    text-align: center;
+    color :rgb(220, 224, 224)
+}
