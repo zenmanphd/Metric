@@ -65,6 +65,20 @@ button {
   line-height: 1.5;
   margin: auto;
 }
+.rant4 {
+  background-color: rgba(252, 252, 252, 0.655);
+  color: rgb(165, 55, 55);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  font-weight: bolder;
+  width: 750px;
+  border: 2px solid rgb(165, 55, 55);
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  line-height: 1.5;
+  margin: auto;
+}
 .lie {
   color: rgb(255, 235, 242);
   background-color: rgb(85, 4, 31);
