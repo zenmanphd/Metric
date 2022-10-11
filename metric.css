@@ -121,3 +121,17 @@ button {
     color :rgb(220, 224, 224);
     margin:auto;
 }
+.tips {
+  background-color: rgba(77, 5, 23, 0.649);
+  color: rgb(217, 234, 234);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  font-size: larger;
+  width: 750px;
+  border: 2px solid rgb(195, 140, 150);
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  line-height: 1.5;
+  margin: auto;
+}
